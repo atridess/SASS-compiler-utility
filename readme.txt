@@ -1,3 +1,17 @@
+INSTALL INSTRUSCTION
+
+to use utility you need Composer package manager (getcomposer.org)
+
+after download progect(SASS-compiler-utility) download necessary packages by command:
+$ composer update
+
+
+HOW TO USE
+
+$ bin/compile.php <arguments>
+
+HOW TO USE: ARGUMENTS
+
 compile.php input <filename> [ path <directory>(default ./) | output <filename>(default build.css) | format <formatname>(default nested) ]
 
   help, -h
