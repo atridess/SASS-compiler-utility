@@ -1,0 +1,23 @@
+{
+    "name": "atridess/sass-compiler-utility",
+    "description": "Easy SASS compiler utility",
+    "version": "1.0.0",
+    "keywords": [
+    "css",
+    "sass",
+    "compiler",
+    "front-end",
+    "web"
+  ],
+    "type": "progect",
+    "require": {
+        "leafo/scssphp": "0.7.6"
+    },
+    "license": "GNU 2",
+    "authors": [
+        {
+            "name": "Jevgenijs Grosmanis",
+            "email": "eugene.grosmanis@gmail.com"
+        }
+    ]
+}
